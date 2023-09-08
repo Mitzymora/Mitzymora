@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola, mundo! Soy Mitzy Mora. 👋<br><br>El desarrollo web me ha llevado a explorar sobre mi <br><br>💻 Mis Habilidades son JS / HTML / CSS /<br><br>👩🏽‍💻Actualmente estoy aprendiendo: JS / React / node.js / HTML / CSS / Firebase / Firestore / UX Design<br><br>📊 Familiarizada con la metodología ágil de Scrum.<br><br>📫 Me puedes contactar al correo mitzamora30@gmail.com
+¡Hola, mundo! Soy Mitzy Mora. 👋<br><br>El desarrollo web me ha llevado a explorar sobre mis capacidades y estoy emocionada por llevarlas al máximo. <br><br>💻 Mis Habilidades son JS / HTML / CSS /<br><br>👩🏽‍💻Actualmente estoy aprendiendo: JS / React / node.js / HTML / CSS / Firebase / Firestore / UX Design<br><br>📊 Familiarizada con la metodología ágil de Scrum.<br><br>📫 Me puedes contactar al correo mitzamora30@gmail.com
 
 
 ## 🌐 Socials:
